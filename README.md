@@ -22,16 +22,16 @@ Tools: Python, NumPy, Pandas, SciPy, statsmodels, scikit-learn, XGBoost, Plotly,
 
 Note: This was built entirely with Claude AI - This project doesn't display an understanding of coding, but rather, displays an understanding of the models, the development, the testing of the outputs and the integration of the components into the broader research workflow. Overall, this project required me to research, understand and integrate a wide range of financial models and concepts into a complete and functional dashboard and system.
 
-<img width="1458" height="708" alt="Screenshot 2026-10-02 at 11 18 28 am" src="https://github.com/user-attachments/assets/ed7e8c9b-6b40-432c-9445-922ce37b115a" />
-<img width="1454" height="731" alt="Screenshot 2026-10-02 at 11 18 15 am" src="https://github.com/user-attachments/assets/bc515ef9-1a06-4bec-ae6b-f9b7ec190eb8" />
-<img width="1459" height="742" alt="Screenshot 2026-10-02 at 11 17 17 am" src="https://github.com/user-attachments/assets/28a82c84-6f27-4f3a-ba11-8d1339283541" />
-<img width="1461" height="723" alt="Screenshot 2026-10-02 at 11 16 55 am" src="https://github.com/user-attachments/assets/bca99856-1112-47e2-957f-8791649c49d6" />
-<img width="1445" height="721" alt="Screenshot 2026-10-02 at 11 16 35 am" src="https://github.com/user-attachments/assets/de0ada6c-4171-4856-b26c-08d28bf87988" />
-<img width="1463" height="750" alt="Screenshot 2026-10-02 at 11 16 07 am" src="https://github.com/user-attachments/assets/22a24584-0cab-4e18-9fd7-a398ea949caf" />
-<img width="1450" height="734" alt="Screenshot 2026-10-02 at 11 21 58 am" src="https://github.com/user-attachments/assets/a8151ba3-4af2-4d3f-ac87-36a3a7a7dab3" />
-<img width="1452" height="706" alt="Screenshot 2026-10-02 at 11 21 16 am" src="https://github.com/user-attachments/assets/484fd4e3-70cd-4aab-8162-b5fb3b95f86a" />
-<img width="1455" height="712" alt="Screenshot 2026-10-02 at 11 21 08 am" src="https://github.com/user-attachments/assets/36aec798-2f4c-418b-92aa-8ec2f15558b6" />
-<img width="1446" height="729" alt="Screenshot 2026-10-02 at 11 21 00 am" src="https://github.com/user-attachments/assets/29c79b13-7d5e-431f-96bb-44a913b3ebea" />
-<img width="1456" height="726" alt="Screenshot 2026-10-02 at 11 20 23 am" src="https://github.com/user-attachments/assets/4881e79f-10b4-4c8c-b73e-a39eec46e04d" />
-<img width="1442" height="703" alt="Screenshot 2026-10-02 at 11 19 24 am" src="https://github.com/user-attachments/assets/2debb06e-d2f4-4b16-8488-d6a5bf676d1a" />
-<img width="1451" height="722" alt="Screenshot 2026-10-02 at 11 19 09 am" src="https://github.com/user-attachments/assets/89234f42-8807-4d57-b1f3-3414e8c38531" />
+<img width="1463" height="750" alt="Screenshot 2026-10-02 at 11 16 07 am" src="https://github.com/user-attachments/assets/aa76e5cc-1234-45b4-83e2-134f2ba68d7e" />
+<img width="1445" height="721" alt="Screenshot 2026-10-02 at 11 16 35 am" src="https://github.com/user-attachments/assets/380c6077-1f47-47cb-9161-07dc13a17f85" />
+<img width="1461" height="723" alt="Screenshot 2026-10-02 at 11 16 55 am" src="https://github.com/user-attachments/assets/bcbce4ca-aeca-40c9-9f6b-81179083f3c2" />
+<img width="1459" height="742" alt="Screenshot 2026-10-02 at 11 17 17 am" src="https://github.com/user-attachments/assets/89be202d-10a1-4af9-bdf1-42fa0fd72696" />
+<img width="1454" height="731" alt="Screenshot 2026-10-02 at 11 18 15 am" src="https://github.com/user-attachments/assets/c7b4fe60-bf22-422a-a6e0-87c4096ada4b" />
+<img width="1458" height="708" alt="Screenshot 2026-10-02 at 11 18 28 am" src="https://github.com/user-attachments/assets/40b8338b-e79f-4918-954c-44e20ad68d5d" />
+ <img width="1451" height="722" alt="Screenshot 2026-10-02 at 11 19 09 am" src="https://github.com/user-attachments/assets/efc9ba0f-8425-4d7b-b72c-5175cccc2f2a" />
+<img width="1442" height="703" alt="Screenshot 2026-10-02 at 11 19 24 am" src="https://github.com/user-attachments/assets/8e452e1b-4721-4651-812e-ec15026972b0" />
+<img width="1456" height="726" alt="Screenshot 2026-10-02 at 11 20 23 am" src="https://github.com/user-attachments/assets/6e9b7454-bffc-4196-a3d9-2e694c4416dd" />
+<img width="1446" height="729" alt="Screenshot 2026-10-02 at 11 21 00 am" src="https://github.com/user-attachments/assets/b895569d-265d-4f4e-9092-e8d29b16a08e" />
+<img width="1455" height="712" alt="Screenshot 2026-10-02 at 11 21 08 am" src="https://github.com/user-attachments/assets/a7a0e718-2459-47aa-b371-b35518d46d93" />
+<img width="1452" height="706" alt="Screenshot 2026-10-02 at 11 21 16 am" src="https://github.com/user-attachments/assets/13543391-a2f2-44a3-82fd-6e54bd68968b" />
+<img width="1450" height="734" alt="Screenshot 2026-10-02 at 11 21 58 am" src="https://github.com/user-attachments/assets/cfbc6ca5-9630-40b3-918b-c68ad0f57302" />
